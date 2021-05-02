@@ -11,5 +11,7 @@ This python script fetches the covid vaccination centres(cowin portal) based on 
 Make sure python(>3.7) is intalled on your device
 
 '''
+
 python cowin_fetch_by_district.py
+
 '''
