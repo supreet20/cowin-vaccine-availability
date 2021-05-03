@@ -21,9 +21,9 @@ Make sure python(>3.7) is intalled on your device
  Fow windows : python -m pip install pandas
 
  - Run the python file
-'''
-python cowin_fetch_by_district.py
-''''
+ '''
+ python cowin_fetch_by_district.py
+ '''
 
  - Open the index.html file where you cloned the repo and voila, you have the list.
 
