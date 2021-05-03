@@ -8,24 +8,24 @@ This python script fetches the covid vaccination centres(cowin portal) based on 
 
 ## Steps to run
 
-Make sure python(>3.7) is intalled on your device
+1. Make sure python(>3.7) is intalled on your device
 
  - Install requests and pandas module in your system
 
-1. Requests Module
+2. Requests Module
  - For mac : pip install requests
  - Fow windows : python -m pip install requests
 
-2. Pandas Module
+3. Pandas Module
  - For mac : pip install pandas
  - Fow windows : python -m pip install pandas
 
- - Run the python file
+4. Run the python file
  '''
  python cowin_fetch_by_district.py
  '''
 
- - Open the index.html file where you cloned the repo and voila, you have the list.
+5. Open the index.html file where you cloned the repo and voila, you have the list.
 
 ## Few tips 
 
