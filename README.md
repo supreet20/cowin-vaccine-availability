@@ -16,7 +16,7 @@ Make sure python(>3.7) is intalled on your device
  - For mac : pip install requests
  - Fow windows : python -m pip install requests
 
-1. Pandas Module
+2. Pandas Module
  - For mac : pip install pandas
  - Fow windows : python -m pip install pandas
 
