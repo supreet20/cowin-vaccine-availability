@@ -4,7 +4,7 @@ This python script fetches the covid vaccination centres(cowin portal) based on 
  - Age
  - State
  - Number of weeks for appointment
- - City (Soon)
+ - City
 
 ## Steps to run
 
