@@ -18,7 +18,7 @@ else:
     state_response = "Delhi"
     weeks_response = 2
     age_response = 25
-    city_response = "North Delhi"
+    city_response = "Noida"
 #141      Central Delhi
 #145      East Delhi
 #140      New Delhi
@@ -63,7 +63,7 @@ for district_data in json_data["districts"]:
    print(district_data["district_id"],'\t', district_data["district_name"])
    district_ids.append(district_data["district_id"])
    if(city_flag.lower() == 'y' or  city_flag.lower()=="yes"):
-       if(district_data['district_name'].lower() == city_response.lower()):
+       if((district_data['district_name'].lower() == city_response.lower()) or city_response):
            city_id.append(district_data["district_id"])
 
 print("\n")
