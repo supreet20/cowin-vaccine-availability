@@ -36,7 +36,7 @@ https://pip.pypa.io/en/stable/installing/
  - If you want to skip entering data eveyrtime when the code asks : 
  "Do you want to enter data (y/n):", you can do so by doing the following changes in code:
  - In the file cowin_fetch_by_district.py
-    Change the lines 17,18,19,20 as :
+    Change the lines 18,19,20,21 as :
     1. state_response = "Your_state" (eg. "Delhi")
     1. weeks_response = Num_Of_weeks (eg. 2)
     1. age_response = Your_age(For eg. 25)
